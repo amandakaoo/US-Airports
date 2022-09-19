@@ -17,4 +17,4 @@ Data sources and some credit information can be found at the right bottom corner
 
 
 ### MAP URL
-https://amandakaoo.github.io/us-airports/
+https://yi-hsuankao.github.io/us-airports/
